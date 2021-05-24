@@ -1,7 +1,10 @@
  Hi, I’m @Mango-Tea
  I’m interested in C#, C++, opengl, unity, and Python
- I’m currently learning C# and C++
+
+I’m currently learning C# and C++
+ 
  I’m looking to collaborate on ...
+ 
  How to reach me ...
 
 <!---
