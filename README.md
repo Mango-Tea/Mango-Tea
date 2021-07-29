@@ -1,5 +1,5 @@
  Hi, I’m @Mango-Tea
- I’m interested in C#, C++, opengl, unity, and Python
+ I’m interested in C#, C++, opengl, unity, Python, Java, linux and allot more!
 
 I’m currently learning C# and C++
  
