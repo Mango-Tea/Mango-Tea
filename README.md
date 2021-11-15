@@ -1,7 +1,7 @@
  Hi, I’m @Mango-Tea
- I’m interested in C#, C++, opengl, unity, Python, Java, linux and allot more!
+ I’m interested in JS, C++, opengl, Python, linux, cyber security, kali linux and allot more!
 
-I’m currently learning C# and C++
+I’m currently learning python and JS
  
  I’m looking to collaborate on ...
  
