@@ -1,5 +1,5 @@
  Hi, I’m @Mango-Tea
- I’m interested in JS, C++, opengl, Python, linux, cyber security, kali linux and allot more!
+ I’m interested in JS, C++, opengl, Python, linux, cyber security, C# and allot more!
 
 I’m currently learning python and JS
  
