@@ -1,7 +1,7 @@
  Hi, I’m @Mango-Tea
- I’m interested in JS, C++, opengl, Python, linux, cyber security, C# and allot more!
+ I’m interested in ASM, C, Python, linux, cyber security, C#, embeded systems!
 
-I’m currently learning python and JS
+I’m currently learning python and C
  
  I’m looking to collaborate on ...
  
